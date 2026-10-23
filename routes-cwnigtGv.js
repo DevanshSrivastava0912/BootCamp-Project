@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BkSabwWG.js";var t=e(),n=()=>(0,t.jsx)(`div`,{className:`p-8 text-center text-muted-foreground`,children:`No companies found.`});export{n as notFoundComponent};
